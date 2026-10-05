@@ -10,10 +10,6 @@ The Toad artwork used as concept art in this project was created by [@ItosinoPIO
 
 Original source: https://x.com/ItosinoPIO/status/1807534707758047591
 
-![concept art toad](/Users/codfish/Desktop/CIS5660/hw02/hw02-stylization/concept art toad.png)
-
-
-
 #### Toad 3D Model
 The Toad model used in this project was created by https://sketchfab.com/jakobhenerey2023
 
